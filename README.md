@@ -19,7 +19,7 @@ The FFXI directory is *usually located at:
 X:\Program Files\PlayOnline\SquareEnix\FINAL FANTASY XI\
 
 --32bit OS:  
-X:\Program Files (x86)\PlayOnline\SquareEnix\FINAL FANTASY XI\
+X:\Program Files(x86)\PlayOnline\SquareEnix\FINAL FANTASY XI\
 ========================
 *The Steam version of FINAL FANTASY XI is located at:
 
