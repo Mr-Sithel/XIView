@@ -35,6 +35,13 @@ X:\Program Files\Steam\steamapps\common\ffxi\SquareEnix\FINAL FANTASY XI\
 ####32bit Directory
 X:\Program Files (x86)\Steam\steamapps\common\ffxi\SquareEnix\FINAL FANTASY XI\
 
+####Backup
+If you don't like the changes I've made, be sure to backup these files before overwriting your dats.
+ROM/119/51.dat US GUI UI
+ROM/119/57.dat Status Icons
+ROM/119/50.dat Title Screen
+ROM/280/15.dat Menu Icons
+
 ####Status Icons
 In Game for XI View Status Icons to work make sure in Game you go to this menu setting. 
 Menu - Config - Misc. > Icon Type 2
