@@ -17,6 +17,7 @@ The FFXI directory is *usually located at:
 
 --64bit OS:
 X:\Program Files\PlayOnline\SquareEnix\FINAL FANTASY XI\
+
 --32bit OS:  
 X:\Program Files (x86)\PlayOnline\SquareEnix\FINAL FANTASY XI\
 ========================
