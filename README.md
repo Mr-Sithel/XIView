@@ -2,7 +2,8 @@
 ####Version
 I'd like to keep this called XI View, because most everyone 
 from the windower community knows it as that.With that, I 
-will start it as XI View 2.0
+will start it as XI View 2.0 and have the title screen with
+the current date that it was updated.
 
 ####Description  
 XI View 2.0 is the continued work on the project to update 
