@@ -14,13 +14,9 @@ XI View 2.0 includes updated Status Icons, Fonts,Menu icons, Graphic User Interf
 --== INSTALLATION ==--
 To install XI View download then extract the archive and copy the ROM folder to your FFXI directory choosing yes when prompted to overwrite any files. Once all files are installed you should see "XI View 2.0" With the current versions date on the tile screen.
 The FFXI directory is *usually located at:
+--64bit OS: X:\Program Files\PlayOnline\SquareEnix\FINAL FANTASY XI\
+--32bit OS: X:\Program Files (x86)\PlayOnline\SquareEnix\FINAL FANTASY XI\
 
---64bit OS:
-X:\Program Files\PlayOnline\SquareEnix\FINAL FANTASY XI\
-
---32bit OS:  
-X:\Program Files(x86)\PlayOnline\SquareEnix\FINAL FANTASY XI\
-========================
 *The Steam version of FINAL FANTASY XI is located at:
 
 --64bit OS:
