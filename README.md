@@ -20,8 +20,7 @@ pearl/bazzar icons next to you name will be smaller.)
 ####Install
 To install XI View download then extract the archive and copy the 
 ROM folder to your FFXI directory choosing yes when prompted to 
-overwrite any files. Once all files are installed you should see 
-"XI View 2.0" With the current versions date on the tile screen.
+overwrite any files. 
 
 ####64bit Directory
 X:\Program Files\PlayOnline\SquareEnix\FINAL FANTASY XI\
