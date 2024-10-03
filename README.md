@@ -14,6 +14,7 @@ If you are looking for an up to date retail version of XIVIEW check Caradog
 
 ## Fixes
 Changed Bard's Ballad and Peon icons. I've wanted to do this for years because it looked to similar to other song colors.
+
 ![](https://i.imgur.com/2PAHh2e.png)
 
 
