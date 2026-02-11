@@ -9,11 +9,13 @@ This is XIVIEW from the Horizon XI private server
 
 ## Changes
 I know longer play retail and have since played on the Horizon XI server
-If you are looking for an up to date retail version of XIVIEW check Caradog
+If you are looking for an up to date retail version of XIVIEW check Caradog or KenshiDRK
 - [Caradog](https://github.com/Caradog/XI-View)
+- [KenshiDRK](https://github.com/KenshiDRK/XiView)
 
 ## Fixes
-Changed Bard's Ballad and Peon icons. I've wanted to do this for years because it looked to similar to other song colors.
+- Updated Horizon's icons for the Rebase update (Hardcore Icon ect.)
+- Changed Bard's Ballad and Peon icons. I've wanted to do this for years because it looked to similar to other song colors.
 
 ![](https://i.imgur.com/2PAHh2e.png)
 
