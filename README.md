@@ -20,8 +20,8 @@ If you are looking for an up to date retail version of XIVIEW check Caradog or K
 ![](https://i.imgur.com/2PAHh2e.png)
 
 
-### Private Sever Installation
-| Bit | Horizon XI Location |
+### Private Sever Installation with Pivot
+| Bit | Horizon XI Pivot Location |
 | :---: | :--: |
 | 64bit | ...\HorizonXI-Launcher\HorizonXI\Game\polplugins\DATs\ [XIVIEW Location] |
 
