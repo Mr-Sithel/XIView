@@ -7,14 +7,19 @@ XI View 2.0 is the continued work on the project to update FFXIs GUI to look cle
 ### Private Servers
 This is XIVIEW from the Horizon XI private server
 
+## Update
+- Updated Horizon's icons for the Rebase update
+- Redid icons for Bazaar, New Adventure, LevelSync, Mentor, Away, Busy, Disconnect Ect.
+
 ## Changes
 I know longer play retail and have since played on the Horizon XI server
+
+## Retail
 If you are looking for an up to date retail version of XIVIEW check Caradog or KenshiDRK
 - [Caradog](https://github.com/Caradog/XI-View)
 - [KenshiDRK](https://github.com/KenshiDRK/XiView)
 
 ## Fixes
-- Updated Horizon's icons for the Rebase update (Hardcore Icon ect.)
 - Changed Bard's Ballad and Peon icons. I've wanted to do this for years because it looked to similar to other song colors.
 
 ![](https://i.imgur.com/2PAHh2e.png)
