@@ -10,6 +10,7 @@ This is XIVIEW from the Horizon XI private server
 ## Update
 - Updated Horizon's icons for the Rebase update
 - Redid icons for Bazaar, New Adventure, LevelSync, Mentor, Away, Busy, Disconnect Ect.
+![](https://raw.githubusercontent.com/Mr-Sithel/XIView/refs/heads/master/example.png)
 
 ## Changes
 I know longer play retail and have since played on the Horizon XI server
