@@ -6,6 +6,8 @@ XI View 2.0 is the continued work on the project to update FFXIs GUI to look cle
 
 ### Private Servers
 This is XIVIEW from the Horizon XI private server
+- I highly recommend using the Nameplate plugin within Horizon. It will fix any blurry, sizing and correct aspect ratios.
+
 
 ## Update
 - Updated Horizon's icons for the Rebase update
