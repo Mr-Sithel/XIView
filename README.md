@@ -11,6 +11,7 @@ This is XIVIEW from the Horizon XI private server
 
 ## Update
 - Updated Horizon's icons for the Rebase update
+- Added a widescreen type version (If you use super wide screens this may help with the stretched look)
 - Redid icons for Bazaar, New Adventure, LevelSync, Mentor, Away, Busy, Disconnect Ect.
 ![](https://raw.githubusercontent.com/Mr-Sithel/XIView/refs/heads/master/example.png)
 
@@ -23,6 +24,7 @@ If you are looking for an up to date retail version of XIVIEW check Caradog or K
 - [KenshiDRK](https://github.com/KenshiDRK/XiView)
 
 ## Fixes
+- Fixed nameplate font (Not as pixilated as before)
 - Changed Bard's Ballad and Peon icons. I've wanted to do this for years because it looked to similar to other song colors.
 
 ![](https://i.imgur.com/2PAHh2e.png)
