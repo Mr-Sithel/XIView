@@ -18,9 +18,9 @@ This is XIVIEW from the Horizon XI private server
 
 ## Disclaimer
 - Since these fonts and icons are modified to be higher quality going from 256 to 512 you will see this jumbled text on the title screen if you click the config button.
-![]()
+![](https://github.com/Mr-Sithel/XIView/blob/master/Issue.png?raw=true)
 - Here's what it looks if you need to refrence it.
-![]()
+![](https://github.com/Mr-Sithel/XIView/blob/master/Fixed.png?raw=true)
 
 ## Changes
 I know longer play retail and have since played on the Horizon XI server
