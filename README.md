@@ -17,9 +17,12 @@ This is XIVIEW from the Horizon XI private server
 ![](https://raw.githubusercontent.com/Mr-Sithel/XIView/refs/heads/master/example.png)
 
 ## Disclaimer
-- Since these fonts and icons are modified to be higher quality going from 256 to 512 you will see this jumbled text on the title screen if you click the config button.
+Since these fonts and icons are modified to be higher quality going from 256 to 512 you will see this jumbled text on the title screen if you click the config button.
+<p></p>
 ![](https://github.com/Mr-Sithel/XIView/blob/master/Issue.png?raw=true)
-- Here's what it looks if you need to refrence it.
+
+Here's what it looks if you need to refrence it.
+<p></p>
 ![](https://github.com/Mr-Sithel/XIView/blob/master/Fixed.png?raw=true)
 
 ## Changes
