@@ -10,10 +10,17 @@ This is XIVIEW from the Horizon XI private server
 
 
 ## Update
+- From reading the Disclaimer below I also added a lower quality 256 icon version that fixes the jumbled title screen config text. Rename the "Lower Quality 256" to 51.DAT
 - Updated Horizon's icons for the Rebase update
 - Added a widescreen type version (If you use super wide screens this may help with the stretched look)
 - Redid icons for Bazaar, New Adventure, LevelSync, Mentor, Away, Busy, Disconnect Ect.
 ![](https://raw.githubusercontent.com/Mr-Sithel/XIView/refs/heads/master/example.png)
+
+## Disclaimer
+- Since these fonts and icons are modified to be higher quality going from 256 to 512 you will see this jumbled text on the title screen if you click the config button.
+![]()
+- Here's what it looks if you need to refrence it.
+![]()
 
 ## Changes
 I know longer play retail and have since played on the Horizon XI server
